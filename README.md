@@ -123,6 +123,3 @@ The final machine learning model will predict whether a customer is likely to ch
 
 
 
-## License
-
-This project is created for educational and learning purposes.
